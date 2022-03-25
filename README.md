@@ -1,4 +1,4 @@
-# Machine_Learing
+# Machine_Learning
 **************************
 # Install 
 - dowloand zip file 
